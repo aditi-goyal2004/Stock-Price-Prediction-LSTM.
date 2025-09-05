@@ -22,7 +22,9 @@ The model is built with a **Stacked LSTM neural network**, which is excellent fo
 2. Install required libraries:  
 ```bash
 pip install -r requirements.txt
-## 📊 Expected Results
+
+# 📊 Expected Results
+
 
 After running the notebook, you can expect:
 
@@ -39,7 +41,7 @@ After running the notebook, you can expect:
 
 ---
 
-## ⚙ Project Structure
+# ⚙ Project Structure
 
 Your project folder contains:
 
@@ -49,7 +51,7 @@ Your project folder contains:
 
 ---
 
-## 📦 Requirements
+# 📦 Requirements
 
 - numpy  
 - pandas  
@@ -60,7 +62,7 @@ Your project folder contains:
 
 ---
 
-## 🔗 Useful Links
+# 🔗 Useful Links
 
 - [yfinance documentation](https://pypi.org/project/yfinance/) – for fetching stock data  
 - [TensorFlow LSTM](https://www.tensorflow.org/guide/keras/rnn) – for understanding LSTM layers  
